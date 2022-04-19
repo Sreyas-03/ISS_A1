@@ -20,15 +20,8 @@ question 2-
 question 3- 
 
 [if no file name is entered as argument, it is assumed to be ***quotes.txt***]
-> ./q3-a.sh <filename (optional)>
-> 
-> ./q3-b.sh <filename (optional)>
-> 
-> ./q3-c.sh <filename (optional)>
-> 
-> ./q3-d.sh <filename (optional)>
->
-> ./q3-e.sh <filename (optional)>
+
+> ./q3.sh <filename (optional)>
 
 question 4-
 
