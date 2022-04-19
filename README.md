@@ -4,6 +4,8 @@ Repository for ISS Assignment 1 solutions.
 ### All the programs were tested on BASH in ubuntu 20.04
 ___
 ___
+### ***Please do not use temp.txt or temp1.txt as input file names as they will be used for handling intermediate files***
+___
 
 #### To give permissions to all the shell programs
 > chmod 755 *.sh 
